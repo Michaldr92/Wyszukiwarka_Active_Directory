@@ -1,0 +1,108 @@
+		body{
+			margin: 0;
+			padding:0;
+			background-color:#F1F1F1;
+		}
+		
+		#caly_blok {
+		 position:relative;
+		 margin:0 auto;
+		 background-color:#F1F1F1;
+		 font-family: verdana;
+		 font-size: 10pt;
+		 overflow: hidden;
+		}
+		  
+		#header {
+		background-color:#FFFFFF;
+		color:black;
+		text-align:center;
+		border-bottom: solid;		
+		border-color: rgb(23, 80, 131);
+		border-width: 4px;
+		height: 80px;
+
+		}
+
+		#search{
+		position: absolute;
+		padding: 0;
+		text-align:left; 
+		left:200px; 
+		top: 40px;
+		}
+
+		#info{
+		position: relative;
+		float: left;
+		width: 40%;
+		}
+		
+		#group{
+		position: relative;
+		width:30%;
+		float: left;
+		}
+		
+		#photo{
+		margin-top: 100px
+		position: relative;
+		float: left;
+		}	
+		
+		#photo img{
+			border: solid 1px #AAA;
+			display:block;
+			margin-bottom:5px;
+		}
+		#photo fieldset{
+			border: solid 1px #BBB;
+			margin-top: 15px;
+		}
+		
+		.logo{
+			text-align:left; 
+			margin-left:10px; 
+			margin-top:5px
+		}
+		
+		a {
+		 text-decoration: none;
+		}
+
+		.osoby{
+			 text-decoration: none;
+		}
+
+		ul li {
+			line-height: 150%;
+		}
+
+		.brak{			
+			 text-align: center;
+		}
+		
+		.naglowek{
+		position:absolute;
+		color: rgb(23, 80, 131);
+		text-align: right;
+		right:20px;
+		top:5px;
+		font-size:14pt;
+		font-weight: bold;
+		}
+		
+		#names_tmp {
+			float: left;
+			width: 400px;
+			text-align: left;		
+			margin-top: 10px;
+		}
+		
+		#netid_tmp{
+			float: left;
+			width: 100px;
+			text-align: center;
+			margin-top: 10px;
+			margin-left: 10px;
+		}
