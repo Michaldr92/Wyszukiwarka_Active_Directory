@@ -1,19 +1,19 @@
 Wyszukiwarka - Active Directory
 
 
-Jêzyki: PHP (framework: CodeIgniter), HTML5, CSS, JS (JQuery)
+JÄ™zyki: PHP (framework: CodeIgniter), HTML5, CSS, JS (JQuery)
 
 
-Jest to mój pierwszy program, który pisa³em na sta¿u w pewnej firmie motoryzacyjnej, w której tak naprawdê nauczy³em siê programowaæ webowo.
+Jest to mÃ³j pierwszy program, ktÃ³ry pisaÅ‚em na staÅ¼u w pewnej firmie motoryzacyjnej.
 
 
 Opis:
 
-Program s³u¿y jako wyszukiwarka wszystkich danych o u¿ytkowniku z Active Directory. Mia³o to na celu u³atwiæ i przyspieszyæ
-pracê dzia³u IT w którym odbywa³em sta¿. 
-U¿ytkownik/Admin wpisuje sobie nazwisko w polu wyszukiwania i pojawia mu siê na liœcie: Imie, Nazwisko, NETID(numer ID usera) i email.
-Nastêpnie po klikniêciu w linka pokazuj¹ siê wszystkie dane u¿ytkownika jakie s¹ zapisane na serwerze w active directory + wyœwietlane jest zdjêcie 
-z AD oraz Empire (oddzielny serwer firmowy). Dodatkowo wyœwietlone s¹ komputery jakie posiada u¿ytkownik i ich stan (Online/Offline).
+Program sÅ‚uÅ¼y jako wyszukiwarka wszystkich danych o uÅ¼ytkowniku z Active Directory. MiaÅ‚o to na celu uÅ‚atwiÄ‡ i przyspieszyÄ‡
+pracÄ™ dziaÅ‚u IT w ktÃ³rym odbywaÅ‚em staÅ¼. 
+UÅ¼ytkownik/Admin wpisuje sobie nazwisko w polu wyszukiwania i pojawia mu siÄ™ na liÅ›cie: Imie, Nazwisko, NETID(numer ID usera) i email.
+NastÄ™pnie po klikniÄ™ciu w linka pokazujÄ… siÄ™ wszystkie dane uÅ¼ytkownika jakie sÄ… zapisane na serwerze w active directory + wyÅ›wietlane jest zdjÄ™cie 
+z AD oraz Empire (oddzielny serwer firmowy). Dodatkowo wyÅ›wietlone sÄ… komputery jakie posiada uÅ¼ytkownik i ich stan (Online/Offline).
 
-Do³¹czy³em równie¿ screen gdzie widaæ moje dane. Niestety kilka wpisów zas³oni³em ze wzglêdu na poufnoœæ.
+DoÅ‚Ä…czyÅ‚em rÃ³wnieÅ¼ screen gdzie widaÄ‡ moje dane. Niestety kilka wpisÃ³w zasÅ‚oniÅ‚em ze wzglÄ™du na poufnoÅ›Ä‡.
 
